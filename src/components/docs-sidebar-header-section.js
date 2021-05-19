@@ -10,7 +10,7 @@ const DocsSidebarHeaderSection = () => (
         logo={<CloudflareLogo/>}
         text={(
           <>
-            <span data-text="Cloudflare">Cloudflare</span>
+            <span data-text="Cloudflare">Raposas</span>
             <span>&nbsp;</span>
             <span data-text="Docs">Docs</span>
           </>
