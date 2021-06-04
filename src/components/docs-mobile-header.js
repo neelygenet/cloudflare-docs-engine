@@ -8,7 +8,7 @@ const DocsMobileHeader = () => (
     <a className="DocsMobileHeader--cloudflare-logo-link Link Link-without-underline" href="https://raposas.net/">
       <DocsNavLogoLockup
         small={true}
-        logo={<CloudflareLogo/>}
+        logo={<Img src='https://raw.githubusercontent.com/neelygenet/raposas/main/images/logo.png'/>}
         text={(
           <>
             <span data-text="Raposas">Raposas</span>
